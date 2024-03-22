@@ -117,8 +117,8 @@
             // toolStripStatusLabel
             // 
             toolStripStatusLabel.Name = "toolStripStatusLabel";
-            toolStripStatusLabel.Size = new Size(39, 17);
-            toolStripStatusLabel.Text = "Status";
+            toolStripStatusLabel.Size = new Size(185, 17);
+            toolStripStatusLabel.Text = "Developed by Nikolaos Arampidis";
             // 
             // SchedulerMain
             // 
