@@ -45,9 +45,9 @@ Periods:
 
 
 Preferences:
-- Add/Update and Delete a **Preferred Day**/**Preferred Start Time**/**Preferred Room*** with its data to/from the database.
-- Delete All **Preferred Day**/**Preferred Start Time**/**Preferred Room*** data from the database.
-- Print **Preferred Day**/**Preferred Start Time**/**Preferred Room*** data from the database.
+- Add/Update and Delete a **Preferred Day**/**Preferred Start Time**/**Preferred Room** with its data to/from the database.
+- Delete All **Preferred Day**/**Preferred Start Time**/**Preferred Room** data from the database.
+- Print **Preferred Day**/**Preferred Start Time**/**Preferred Room** data from the database.
 
 ![image](https://github.com/nickarabidis/UniTimetableSchedulerGreek/assets/75751845/e254ca07-ba75-4801-bc88-3986b0736ba8)
 
