@@ -54,16 +54,16 @@ Preferences:
 
 Dependencies:
 - Add/Update and Delete a **Dependency** with its data to/from the database.
-- Delete All **Dependency*** data from the database.
-- Print **Dependency*** data from the database.
+- Delete All **Dependency** data from the database.
+- Print **Dependency** data from the database.
 
 ![image](https://github.com/nickarabidis/UniTimetableSchedulerGreek/assets/75751845/d614672b-38fb-4a4c-a52b-60e52b06bbaa)
 
 
 Scheduler:
 - Add/Update and Delete a **Scheduler** with its data to/from the database.
-- Delete All **Dependency*** data from the database.
-- Print **Dependency*** data from the database.
+- Delete All **Scheduler** data from the database.
+- Print **Scheduler** data from the database.
 - Print All data from the database to one file.
 - Generate the timetable with the genetic algorithm.
 
