@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniTimetableScheduler.WinForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60609a92402b5f772c4cd86995759c23e51ddf1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c33ba4ee08b714f73bfb87af2f3379b926814a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniTimetableScheduler.WinForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniTimetableScheduler.WinForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

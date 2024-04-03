@@ -1,0 +1,15 @@
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\bin\Release\net7.0\UniTimetableScheduler.Model.deps.json
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\bin\Release\net7.0\UniTimetableScheduler.Model.runtimeconfig.json
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\bin\Release\net7.0\UniTimetableScheduler.Model.dll
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\bin\Release\net7.0\UniTimetableScheduler.Model.pdb
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\obj\Release\net7.0\UniTimetableScheduler.Model.csproj.AssemblyReference.cache
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\obj\Release\net7.0\UniTimetableScheduler.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\obj\Release\net7.0\UniTimetableScheduler.Model.AssemblyInfoInputs.cache
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\obj\Release\net7.0\UniTimetableScheduler.Model.AssemblyInfo.cs
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\obj\Release\net7.0\UniTimetableScheduler.Model.csproj.CoreCompileInputs.cache
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\obj\Release\net7.0\UniTimetableScheduler.Model.sourcelink.json
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\obj\Release\net7.0\UniTimetableScheduler.Model.dll
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\obj\Release\net7.0\refint\UniTimetableScheduler.Model.dll
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\obj\Release\net7.0\UniTimetableScheduler.Model.pdb
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\obj\Release\net7.0\UniTimetableScheduler.Model.genruntimeconfig.cache
+F:\PROJECTS\UniTimetableSchedulerGreek\UniTimetableScheduler\UniTimetableScheduler.Model\obj\Release\net7.0\ref\UniTimetableScheduler.Model.dll
