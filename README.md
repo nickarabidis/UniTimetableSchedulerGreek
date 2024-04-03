@@ -45,25 +45,25 @@ Periods:
 
 
 Preferences:
-- Add/Update and Delete a **Preferred Day**/**Preferred Start Time**/**Preferred Room*** with its data to/from the database.
-- Delete All **Preferred Day**/**Preferred Start Time**/**Preferred Room*** data from the database.
-- Print **Preferred Day**/**Preferred Start Time**/**Preferred Room*** data from the database.
+- Add/Update and Delete a **Preferred Day**/**Preferred Start Time**/**Preferred Room** with its data to/from the database.
+- Delete All **Preferred Day**/**Preferred Start Time**/**Preferred Room** data from the database.
+- Print **Preferred Day**/**Preferred Start Time**/**Preferred Room** data from the database.
 
 ![image](https://github.com/nickarabidis/UniTimetableSchedulerGreek/assets/75751845/e254ca07-ba75-4801-bc88-3986b0736ba8)
 
 
 Dependencies:
 - Add/Update and Delete a **Dependency** with its data to/from the database.
-- Delete All **Dependency*** data from the database.
-- Print **Dependency*** data from the database.
+- Delete All **Dependency** data from the database.
+- Print **Dependency** data from the database.
 
 ![image](https://github.com/nickarabidis/UniTimetableSchedulerGreek/assets/75751845/d614672b-38fb-4a4c-a52b-60e52b06bbaa)
 
 
 Scheduler:
 - Add/Update and Delete a **Scheduler** with its data to/from the database.
-- Delete All **Dependency*** data from the database.
-- Print **Dependency*** data from the database.
+- Delete All **Scheduler** data from the database.
+- Print **Scheduler** data from the database.
 - Print All data from the database to one file.
 - Generate the timetable with the genetic algorithm.
 
